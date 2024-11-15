@@ -83,7 +83,7 @@ care-flow/
 - **Tree Traversal**:
   - Methods for **in-order**, **pre-order**, and **post-order** traversal of the Binary Search Tree.
 
-For a more detailed explanation of the data structures and algorithms, see the [Components Overview](docs/components_overview.md)
+### For a more detailed explanation of the data structures and algorithms, see the [Components Overview](docs/components_overview.md)
 
 ## Getting Started
 
